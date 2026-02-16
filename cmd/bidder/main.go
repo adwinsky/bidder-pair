@@ -12,7 +12,7 @@ import (
 	"bidder-pair/internal/app"
 	"bidder-pair/internal/decision"
 	"bidder-pair/internal/filter"
-	"bidder-pair/internal/kafka"
+	"bidder-pair/internal/producer"
 )
 
 func main() {
